@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there I'm Andres
+
+I am a student at the University of Georgia (UGA) studying Computer Science
 
 <!--
 **mudkipAstronaut/mudkipAstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
