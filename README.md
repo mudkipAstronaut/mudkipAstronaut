@@ -1,6 +1,8 @@
 ### Hi there I'm Andres
 
-I am a student at the University of Georgia (UGA) studying Computer Science
+I am a student at the University of Georgia (UGA) studying Computer Science.
+
+I am also the current Team Lead for the Flight Software Team at UGA's [Small Satellite Research Lab](http://smallsat.uga.edu/)
 
 <!--
 **mudkipAstronaut/mudkipAstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
