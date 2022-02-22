@@ -2,7 +2,7 @@
 
 #### I am a student at the University of Georgia (UGA) studying Computer Science.
 
-#### I am also the current Team Lead for the Flight Software Team at UGA's [Small Satellite Research Lab](http://smallsat.uga.edu/) (SSRL)
+#### I am also the current Team Lead for the MOCI Flight Software Team at UGA's [Small Satellite Research Lab](http://smallsat.uga.edu/) (SSRL)
 ---
 I am currently learning about deep learning in addition to all the embedded software and flight software I'm learning
 and researching about at the SSRL.
